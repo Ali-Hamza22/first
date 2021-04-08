@@ -1,9 +1,5 @@
-const amount = 12
+const _ = require('loadash')
 
-if (amount < 10) {
-    console.log('Small Number')
-} else {
-    console.log('Large Number')
-}
-
-console.log("This is my First Node App")
+const items = [1, [2, [3, [4]]]]
+const newItems = _.flattenDeep(items)
+console.log(newItems)
