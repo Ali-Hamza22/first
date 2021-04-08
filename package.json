@@ -1,17 +1,24 @@
 {
-    "name": "node",
-    "version": "1.0.0",
-    "main": "10-fs-sync.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "bootstrap": "^4.6.0",
-        "loadash": "^1.0.0"
-    },
-    "devDependencies": {},
-    "keywords": [],
-    "description": ""
+  "name": "node",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-Hamza22/first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-Hamza22/first/issues"
+  },
+  "homepage": "https://github.com/Ali-Hamza22/first#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "loadash": "^1.0.0"
+  }
 }
